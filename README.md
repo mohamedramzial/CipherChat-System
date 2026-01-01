@@ -60,7 +60,7 @@ In an era where data privacy is paramount, CipherChat-System ensures that commun
 
 ## 👤 Author
 
-**Mohammed**
+**Eng Mohammed RAmzi ALraini**
 
 * Eng Cybersecurity  & Developer*
 
