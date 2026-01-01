@@ -34,8 +34,7 @@ In an era where data privacy is paramount, CipherChat-System ensures that commun
 ## 📸 Screenshots
 
 | Login Interface | Chat Interface | File Transfer |
-| :---: | :---: | :---: |
-| <img width="1803" height="697" alt="1" src="https://github.com/user-attachments/assets/4813f87a-8041-40bb-8123-b3f7797c6d64" />
+|| <img width="1803" height="697" alt="1" src="https://github.com/user-attachments/assets/4813f87a-8041-40bb-8123-b3f7797c6d64" />
  | <img width="1810" height="700" alt="2" src="https://github.com/user-attachments/assets/0d262ab2-b89a-4ae4-a2fb-38ac0a87bb7c" />
  | <img width="1288" height="745" alt="3" src="https://github.com/user-attachments/assets/8cf45589-01b9-41cf-9b75-f419f3a3906a" />
  | <img width="1808" height="692" alt="4" src="https://github.com/user-attachments/assets/7006b626-0af7-4a7f-8256-9b7887939426" />
