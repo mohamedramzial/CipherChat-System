@@ -63,7 +63,7 @@ In an era where data privacy is paramount, CipherChat-System ensures that commun
 
 **Mohammed**
 
-*Cybersecurity Student & Developer*
+* Eng Cybersecurity  & Developer*
 
 ---
 *This project was developed for educational purposes to demonstrate secure socket programming.*
