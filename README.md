@@ -48,8 +48,8 @@ In an era where data privacy is paramount, CipherChat-System ensures that commun
 
 ### How to Run
 1.  **Clone the repository:**
-   ```bash
-    git clone [https://github.com/mohamedramzial/CipherChat-System.git)
+    ```bash
+    git clone [[https://github.com/YourUsername/CipherChat-System.git](https://github.com/YourUsername/CipherChat-System.git)](https://github.com/mohamedramzial/CipherChat-System.git)
     ```
 2.  **Start the Server:**
     * Run `ServerApp.exe`.
