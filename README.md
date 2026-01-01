@@ -1,4 +1,4 @@
-# 🔒 CipherChat-System
+#  CipherChat-System
 
 **CipherChat-System** is a secure, real-time LAN communication application built using **C# (.NET 6)** and **Windows Forms**. It is designed to provide encrypted messaging and file sharing capabilities over a local network, demonstrating core concepts of Network Programming and Cybersecurity.
 
@@ -6,7 +6,7 @@
 ![Security](https://img.shields.io/badge/Encryption-AES-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
-## 🚀 Overview
+##  Overview
 
 In an era where data privacy is paramount, CipherChat-System ensures that communication between clients remains confidential. By utilizing TCP/IP sockets for stable connections and AES algorithms for encryption, users can chat and share documents securely within an organization or a home network.
 
@@ -49,7 +49,7 @@ In an era where data privacy is paramount, CipherChat-System ensures that commun
 ### How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/CipherChat-System.git](https://github.com/YourUsername/CipherChat-System.git)
+    git clone [https://github.com/mohamedramzial/CipherChat-System.git](https://github.com/YourUsername/CipherChat-System.git)
     ```
 2.  **Start the Server:**
     * Run `ServerApp.exe`.
